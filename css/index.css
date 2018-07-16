@@ -1,0 +1,22 @@
+body{
+	background-color:#93A4B4;
+	margin:0 auto;
+	padding:0px;
+}
+
+footer{
+	background-color:#0F436A;
+	position:absolute;
+	left:0;
+	bottom:0;
+	height:100px;
+	width:100%;
+	overflow:hidden;
+}
+.indexMsg{
+	font-size:20px;
+	font-style:italic;
+	font-family:Helvetica,sans-serif;
+	font-weight:bold;
+	color:#000000;
+}
